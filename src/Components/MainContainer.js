@@ -17,7 +17,7 @@ export default class MainContainer extends Component {
     render() {
         return (
             <div>
-                <CardContainer knots={this.state.knots}/>
+            <CardContainer knots={this.state.knots}/>
             </div>
         )
     }
