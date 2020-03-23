@@ -12,6 +12,7 @@ function App() {
      header={
        <div className="Header_root">
          <h1 className="Header_title">KNOTS TO SHELTER</h1>
+         <h3>Let's learn survivalist skills, everybody!</h3>
          <ul className="Header_links">
           {/*<li className="Header_link">When</li>
           <li className="Header_link">Why</li>
